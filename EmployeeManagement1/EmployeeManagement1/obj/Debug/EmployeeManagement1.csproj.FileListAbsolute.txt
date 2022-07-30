@@ -1,0 +1,16 @@
+D:\EmployeeManagement1\EmployeeManagement1\bin\Debug\EmployeeManagement1.exe.config
+D:\EmployeeManagement1\EmployeeManagement1\bin\Debug\EmployeeManagement1.exe
+D:\EmployeeManagement1\EmployeeManagement1\bin\Debug\EmployeeManagement1.pdb
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.csproj.AssemblyReference.cache
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.csproj.SuggestedBindingRedirects.cache
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.Employee_Edit_New.resources
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.Properties.Resources.resources
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.csproj.GenerateResource.cache
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.csproj.CoreCompileInputs.cache
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.exe
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.pdb
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.MainPage.resources
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.Employee_list.resources
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.Department_list.resources
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.Department_Edit_New.resources
+D:\EmployeeManagement1\EmployeeManagement1\obj\Debug\EmployeeManagement1.Department_validation.resources
